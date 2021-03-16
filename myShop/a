@@ -1,0 +1,7 @@
+create tableIndian Cricket team(
+ID int NOT NULL,
+Name varchar(50) NOT NULL,
+birthdate varchar(50),
+birthPlace varchar(100),
+PRIMARY KEY (ID)
+);
